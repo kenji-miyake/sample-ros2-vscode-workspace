@@ -6123,6 +6123,7 @@ def ParseArguments(args):
                                                  'root=',
                                                  'linelength=',
                                                  'extensions=',
+                                                 'repository=',
                                                  'headers='])
   except getopt.GetoptError:
     PrintUsage('Invalid arguments.')
