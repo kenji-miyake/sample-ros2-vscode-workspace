@@ -1,0 +1,5 @@
+repositories:
+  sample_package:
+    type: git
+    url: git@github.com:kenji-miyake/ros2_package_template_simple.git
+    version: main
